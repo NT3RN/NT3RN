@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NT3RN
-- 👀 I’m interested in compititve programing
+- 👋 Hi, I’m NT3RN aka Nafim Niloy 
+- 👀 I’m interested in competitive programing.
 - 🌱 I’m currently learning css, js and python.
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me? Telegram me: https://t.me/nt3rn
 
 <!---
 NT3RN/NT3RN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
