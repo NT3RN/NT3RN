@@ -1,7 +1,5 @@
-- 👋 Hi, I’m NT3RN aka Nafim Niloy 
-- 👀 I’m interested in competitive programing and machine learning.
-- 🌱 I’m currently learning data stucture.
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m NT3RN aka S M Nafim Niloy 
+- 👀 I’m interested in machine learning.
 - 📫 How to reach me? Telegram me: https://t.me/nt3rn
 
 <!---
