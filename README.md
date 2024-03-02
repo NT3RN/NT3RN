@@ -1,5 +1,3 @@
-- 👋 Hi, I’m NT3RN aka S M Nafim Niloy 
-- 👀 I’m interested in machine learning.
 - 📫 How to reach me? Telegram me: https://t.me/nt3rn
 
 <!---
