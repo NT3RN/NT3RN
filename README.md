@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning machine learning<br>🎯 Goals: To become a full-stack developer</p>
+<p align="left">📚 I'm currently learning machine learning and web-devlopment</p>
 
 ###
 
