@@ -39,34 +39,5 @@
 
 <br clear="both">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nt3rn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nt3rn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph" style="max-width: 100%; height: auto;" />
-</div>
-
-###
-
-<br clear="both">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="https://www.linkedin.com/in/nafimniloy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;" />
-  </a>
-  <a href="https://x.com/i_nt3rn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="max-width: 100%;" />
-  </a>
-  <a href="https://www.facebook.com/nafim.niloy.69" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="max-width: 100%;" />
-  </a>
-  <a href="https://discord.gg/8eApJwBXjp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="max-width: 100%;" />
-  </a>
-  <a href="https://www.instagram.com/nafim_._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;" />
-  </a>
-  <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="max-width: 100%;" />
-  </a>
-</div>
 
 ###
