@@ -14,10 +14,6 @@
 
 ###
 
-<h2>Languages and Tools</h2>
-
-###
-
 <img src="https://raw.githubusercontent.com/nt3rn/nt3rn/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 
 <br clear="both">
